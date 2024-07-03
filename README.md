@@ -1,3 +1,10 @@
+<p align="center">
+ <a href="https://vuetifyjs.com" target="_blank">
+  <img alt="Vuetify Logo" width="100" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
+ </a>
+</p>
+
+
 # Dynamic Number Input Fields Component
 
 This repository provides a Vue 3 component using Vuetify 3 that dynamically generates number input fields based on the selected number. It allows users to specify the number of input fields they want and enter corresponding values.
